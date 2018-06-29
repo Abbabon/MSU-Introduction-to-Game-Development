@@ -3,7 +3,7 @@ An extension of the homework in the MSU Introduction to Game Development course 
 
 ## Week 1
 
-Didn't contain any homework
+Week 1 didn't contain any homework :)
 
 ## Week 2 - Solar System Simulation
 
